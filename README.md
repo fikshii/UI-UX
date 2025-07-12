@@ -1,4 +1,4 @@
-# 🌿 Project UI/UX - EcoGo
+# 🌿 Project UI/UX
 
 Kumpulan project UI/UX pribadi. Semua desain dikembangkan menggunakan [Figma](https://www.figma.com) sebagai platform utama.
 
